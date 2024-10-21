@@ -1,0 +1,8 @@
+.editProfile img{
+    width: 125px;
+    height: 125px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 100%;
+}
