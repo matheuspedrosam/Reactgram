@@ -6,10 +6,11 @@ Link video demonstração: <a href="https://www.youtube.com/watch?v=c7mVSkYTrNI"
 
 ## Considerações: ✏️
 
-* Api do projeto de conclusão de curso de React do Matheus Battisti
-* Feita em node, seguindo os padrões Rest.
-* Utilizado as bibliotecas: Express / Multer / Jwt / Bcrypt / Mongoose / MongoDb...
-* Obs.: Tem o repositório do FrontEnd também.
+* Projeto de conclusão de curso de React do Matheus Battisti.
+* Consumindo API feita em node, seguindo os padrões Rest.
+* Banco (NoSql - MongoDB).
+* Utilizando: Components / Hooks / Context / Rotas Protegidas...
+* Obs.: Tem o repositório do BackEnd também.
 
 ##
 
